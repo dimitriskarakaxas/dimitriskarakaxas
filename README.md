@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++" />
 
-<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /></h2>
+<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

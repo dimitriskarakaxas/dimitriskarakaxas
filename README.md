@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++" />
 
-<h2 style="margin: 0;">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
+<!-- <h2 style="margin: 0;">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2> -->
+
+Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer from Greece ![Greek Flag](https://image.similarpng.com/very-thumbnail/2020/07/Flag-Greece-waving-on-transparent-background-PNG.png);
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

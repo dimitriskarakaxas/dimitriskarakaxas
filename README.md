@@ -17,7 +17,9 @@ I love working on Projects that can push my knowledge to the next level. Even if
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&lines=Reach+me+out+for+any+question+and+for+any+help!)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&width=500&lines=Reach+me+out+for+any+question+and+for+any+help!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&width=500&lines=Reach+me+out+for+any+question+and+for+any+help!)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&width=575&lines=Reach+me+out+for+any+question+and+for+any+help+you+might+need!)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 

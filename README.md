@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dimitriskarakaxas/dimitriskarakaxas/blob/main/banner(1).png)](https://github.com/dimitriskarakaxas)
+
 
 ### Hi there 👋
 

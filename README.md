@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++)](https://git.io/typing-svg) -->
 
-<img src="https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++" />
+<h2>Hi there!</h2>
+
+<img align="right" src="https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

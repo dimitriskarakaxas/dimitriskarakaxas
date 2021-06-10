@@ -1,14 +1,14 @@
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
-  <img style="margin-right: 15px" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013380916365">
-  <img style="margin-right: 15px" alt="Dimitri's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Dimitri's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/dimitris_krkxs/">
-  <img style="margin-right: 15px" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />
+  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />
 </a>
 
-<br>
+<br />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack web developer from Greece. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering.
 I love working on Projects that can push my knowledge to the next level. Even if my specialty is in Software Development generally, taking ideas and put them online with a complete Frontend and Backend is my passion.

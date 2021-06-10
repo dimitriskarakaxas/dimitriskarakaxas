@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/dimitris-karakaxas">
+<a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 

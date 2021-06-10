@@ -1,4 +1,4 @@
-
+[![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriskarakaxas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
@@ -10,4 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-

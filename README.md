@@ -4,6 +4,7 @@
 
 Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack web developer from Greece. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering
 <img src="https://images.emojiterra.com/google/android-10/512px/1f468-1f4bb.png" width="25px" />
+asdfasdf
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

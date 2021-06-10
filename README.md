@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;+A+passionate+Web+Developer++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=620&lines=Hi%2C+I'm+Dimitris;A+passionate+Web+Developer++)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

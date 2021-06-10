@@ -2,7 +2,7 @@
 
 <!-- <h2 style="margin: 0;">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2> -->
 
-Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack web developer from Greece. I'm in the 3rd year of my studies in Computer Engineering <img src="https://images.emojiterra.com/google/android-10/512px/1f468-1f4bb.png" /> with specialty in Software Engineering
+Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack web developer from Greece. I'm in the 3rd year of my studies in Computer Engineering <img src="https://images.emojiterra.com/google/android-10/512px/1f468-1f4bb.png" width="25px" /> with specialty in Software Engineering
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

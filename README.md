@@ -12,8 +12,8 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer🤩 from Greece🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering👨‍💻.
-I love🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Software Development generally, taking ideas and put them online🌐 with a complete Frontend and Backend is my passion.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer 🤩 from Greece 🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering 👨‍💻.
+I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Software Development generally, taking ideas and put them online 🌐 with a complete Frontend and Backend is my passion.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&width=575&lines=Reach+me+out+for+any+question+and+for+any+help+you+might+need!)](https://git.io/typing-svg)
 

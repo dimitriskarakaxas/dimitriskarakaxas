@@ -13,10 +13,14 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
-- 🚧 Currently I'm working on personal projects
-- 🌱 These days I'm learning JavaScript and SQL
-- 👯 I'm looking forward to collaborate on any Open Source project which I consider it interesting
+- 💪 Currently I'm working as a freelance software engineer
+- 💰 Looking for new clients who wants to work with me
+- I'm looking forward to collaborate on any Open Source project which I consider it interesting
 - 🖥️ Linux enthusiast
+- 🏆 2021 Goals:
+  - Master React.
+  - Publish my portfolio.
+  - Contribute and publish more open source projects.
 
 ## Languages and Tools
 
@@ -35,6 +39,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <br>
 
 ## 🙋‍♂️ Connect with me
+
+For fre
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

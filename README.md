@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h2>
+<h1 align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h1>
 
 <!-- Typing SVG by dimitriskarakaxas -->
 

@@ -24,7 +24,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 ### Languages and Tools
 
-<code><img height="20px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" /></code>
+<code><img height="25px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" /></code>
 <code><img height="20px" src="" /></code>
 <code><img height="20px" src="" /></code>
 <code><img height="20px" src="" /></code>

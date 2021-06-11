@@ -25,6 +25,10 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=dimitriskarakaxas.dimitriskarakaxas)
+
+<br>
+
 ### Languages and Tools
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

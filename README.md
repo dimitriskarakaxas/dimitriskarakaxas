@@ -14,7 +14,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
 - 🚧 Currently I'm working on personal projects
-- 🌱 These days I'm learning JavaScript, NodeJs, and SQL
+- 🌱 These days I'm learning JavaScript and SQL
 - 👯 I'm looking forward to collaborate on any Open Source project which I consider it interesting
 - 🖥️ Linux enthusiast
 

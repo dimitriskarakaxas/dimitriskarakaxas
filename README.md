@@ -30,6 +30,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250">
 
+## More about me
+
 - 💪 Currently I'm working as a freelance software engineer
 - 💰 Looking for new clients who wants to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting

@@ -4,7 +4,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=19&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=35&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=24&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

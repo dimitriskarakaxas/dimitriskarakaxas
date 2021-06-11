@@ -27,7 +27,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <code><img height="25px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" /></code>
 <code><img height="20px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" /></code>
 <code><img height="20px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /></code>
-<code><img height="20px" src="https://s.pngix.com/pngfile/s/146-1466958_php-emblem-php-programming-language-hd-png-download.png" /></code>
+<code><img height="20px" src="https://iconarchive.com/download/i105644/papirus-team/papirus-apps/github-bartzaalberg-php-tester.ico" /></code>
 <code><img height="20px" src="" /></code>
 <code><img height="20px" src="" /></code>
 <code><img height="20px" src="" /></code>

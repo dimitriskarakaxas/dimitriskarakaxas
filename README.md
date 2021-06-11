@@ -22,16 +22,11 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+- 👨🏽‍💻 I’m currently working on something 😜;
+- 🌱 I’m currently learning JavaScript and SQL
+- ✨ I'm interesting on contributing to open source projects
 - 📧 Any freelance work? Do reach, [email](mailto:karakaxasdimitrios@yahoo.com)
-- 💬 Do you need help? I am here for you. Click to one of the links below ⬇️
+- 💬 Ask me about anything, I am happy to help;
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

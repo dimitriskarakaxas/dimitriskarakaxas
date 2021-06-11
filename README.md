@@ -22,7 +22,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 - 📧 Any freelance work? Do reach, [email](mailto:karakaxasdimitrios@yahoo.com)
 - 💬 Do you need help? I am here for you. Click to one of the links in the top 🔝
 
-<h2>Languages and Tools</h2>
+## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>

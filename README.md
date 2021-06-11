@@ -8,7 +8,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
 - 📧 Any freelance work? Do reach, [email](mailto:karakaxasdimitrios@yahoo.com)
-- 💬 Do you need help? I am here for you. Click to one of the links in the top 🔝
+- 💬 Do you need help? I am here for you. Click to one of the links below ⬇️
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -22,8 +22,6 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <a href="https://wa.link/ti9r4f">
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=dimitriskarakaxas.dimitriskarakaxas)
 
 <br>
 

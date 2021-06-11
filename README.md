@@ -13,7 +13,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
-### Languages and Tools
+## Languages and Tools
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -29,7 +29,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <br>
 <br>
 
-### 🙋‍♂️ Connect with me
+## 🙋‍♂️ Connect with me
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

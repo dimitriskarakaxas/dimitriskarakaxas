@@ -4,6 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=19&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
 
+<a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
+  <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100013380916365">
+  <img align="left" alt="Dimitri's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/dimitris_krkxs/">
+  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />
+</a>
+<a href="https://wa.link/ti9r4f">
+  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
+</a>
+
 <!-- Intro section -->
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer 🤩 from Greece 🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering 👨‍💻.
@@ -34,23 +47,3 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
-<br>
-<br>
-
-## 🙋‍♂️ Connect with me
-
-For fre
-
-<a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
-  <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100013380916365">
-  <img align="left" alt="Dimitri's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/dimitris_krkxs/">
-  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />
-</a>
-<a href="https://wa.link/ti9r4f">
-  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
-</a>

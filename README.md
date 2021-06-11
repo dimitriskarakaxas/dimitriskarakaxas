@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h1>
+<h1 text-align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h1>
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

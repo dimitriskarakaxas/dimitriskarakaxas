@@ -48,8 +48,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 ## Languages and Tools
 
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>

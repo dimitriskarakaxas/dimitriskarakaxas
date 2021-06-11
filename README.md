@@ -2,8 +2,6 @@
 
 <!-- Typing SVG by dimitriskarakaxas -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=19&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg) -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=24&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
@@ -30,7 +28,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <!-- Floating img -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300">
 
 ## More about me
 

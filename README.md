@@ -28,7 +28,6 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <br>
 <br>
 <br>
-<br>
 
 ### Languages and Tools
 

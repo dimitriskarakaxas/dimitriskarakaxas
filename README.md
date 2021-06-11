@@ -24,7 +24,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 ### Languages and Tools
 
-<code><img height="20px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" /></code>
+<code><img height="25px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" /></code>
 <code><img height="20px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" /></code>
 <code><img height="20px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" /></code>
 <code><img height="20px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" /></code>

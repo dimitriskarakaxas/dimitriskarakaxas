@@ -19,6 +19,8 @@
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
 
+<br>
+
 <!-- Intro section -->
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer 🤩 from Greece 🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering 👨‍💻.

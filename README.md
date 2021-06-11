@@ -60,6 +60,6 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
 <code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="22" src="https://image.flaticon.com/icons/png/512/518/518713.png"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="22" src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png"></code>
 <code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>

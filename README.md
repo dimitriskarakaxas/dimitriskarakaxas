@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=609&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=750&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
   <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

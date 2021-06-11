@@ -8,7 +8,7 @@
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />
 </a>
 <a href="https://wa.link/ti9r4f">
-  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/WhatsApp-icon-PNG.png" />
+  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dimitriskarakaxas.dimitriskarakaxas)

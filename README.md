@@ -2,7 +2,9 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=18&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=18&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=19&center=true&width=825&lines=Full-stack+web+developer;With+passion+to+create+next+level+apps;Always+learning+something+new)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer 🤩 from Greece 🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering 👨‍💻.
 I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Software Development generally, taking ideas and put them online 🌐 with a complete Frontend and Backend is my passion.

@@ -28,7 +28,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <!-- Floating img -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350">
 
 ## More about me
 

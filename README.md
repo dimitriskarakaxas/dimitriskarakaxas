@@ -15,8 +15,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 - 💪 Currently I'm working as a freelance software engineer
 - 💰 Looking for new clients who wants to work with me
-- I'm looking forward to collaborate on any Open Source project which I consider it interesting
-- 🖥️ Linux enthusiast
+- 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
+- 🖥️ Addicted with Linux(Debian, Arch)
 - 🏆 2021 Goals:
   - Master React.
   - Publish my portfolio.
